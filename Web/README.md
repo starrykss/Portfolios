@@ -18,4 +18,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   010   | _Family Travel Tracker_                          | 가족들이 여행했던 국가들을 지도에 표시할 수 있는 사이트 | HTML5 / CSS3 / JavaScript / Node.js / PostgreSQL |
 |   011   | _Permalist_                                      | CRUD 기능을 적용한 간단한 TO DO LIST                    | HTML5 / CSS3 / JavaScript / Node.js / PostgreSQL |
 |   012   | _World Capital Quiz_                             | 국가 수도 알아 맞추기 게임                              | HTML5 / CSS3 / JavaScript / Node.js / PostgreSQL |
-|   013   | _Keeper_                                         | 국가 수도 알아 맞추기 게임                              | HTML5 / CSS3 / JavaScript / Node.js / React.js   |
+|   013   | _Keeper_                                         | 리액트로 만든 간단한 TO DO LIST                         | HTML5 / CSS3 / JavaScript / Node.js / React.js   |
