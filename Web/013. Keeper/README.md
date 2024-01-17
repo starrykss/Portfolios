@@ -3,7 +3,7 @@
 ## Description
 
 - 리액트를 이용하여 간단하게 만든 TO DO LIST
-- 새로운 메모를 추가하거나 삭제할 수 있다.
+- 새로운 항목을 추가하거나 삭제할 수 있다.
 
 ## Development Information
 
