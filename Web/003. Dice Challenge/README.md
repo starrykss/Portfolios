@@ -8,7 +8,7 @@
 ## Development Information
 
 - **Development Period** : 2023.11.04
-- **Language** : HTML, CSS3, JavaScript
+- **Language** : HTML5, CSS3, JavaScript
 
 ## Demo
 
