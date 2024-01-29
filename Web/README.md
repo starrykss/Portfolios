@@ -20,3 +20,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   012   | _World Capital Quiz_                             | 국가 수도 알아 맞추기 게임                              | HTML5 / CSS3 / JavaScript / Node.js / PostgreSQL |
 |   013   | _Keeper_                                         | 리액트로 만든 간단한 TO DO LIST                         | HTML5 / CSS3 / JavaScript / Node.js / React.js   |
 |   014   | A Simple Drawing App                             | HTML 캔버스를 이용하여 제작한 간단한 드로잉 앱          | HTML5 / CSS3 / JavaScript                        |
+|   015   | A Simple To-Do List                              | Web Storage를 이용하여 제작한 간단한 TO DO LIST         | HTML5 / CSS3 / JavaScript                        |
