@@ -21,3 +21,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   013   | _Keeper_                                         | 리액트로 만든 간단한 TO DO LIST                         | HTML5 / CSS3 / JavaScript / Node.js / React.js   |
 |   014   | _A Simple Drawing App_                           | HTML 캔버스를 이용하여 제작한 간단한 드로잉 앱          | HTML5 / CSS3 / JavaScript                        |
 |   015   | _A Simple To-Do List_                            | Web Storage를 이용하여 제작한 간단한 TO DO LIST         | HTML5 / CSS3 / JavaScript                        |
+|   016   | _React Essentials_                               | 리액트의 필수 기능들을 이용하여 만들어본 간단한 페이지  | HTML5 / CSS3 / JavaScript / React.js             |
