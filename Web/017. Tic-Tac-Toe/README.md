@@ -15,14 +15,14 @@
 
 ## How to Start
 
-> `yarn`
+> yarn
 
 ```bash
 $ yarn
 $ yarn dev
 ```
 
-> `npm`
+> npm
 
 ```bash
 $ npm install
