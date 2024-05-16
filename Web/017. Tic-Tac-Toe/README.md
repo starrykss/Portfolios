@@ -13,6 +13,22 @@
 - **Language** : HTML5, CSS3, JavaScript
 - **Library** : React.js
 
+## How to Start
+
+> `yarn`
+
+```bash
+$ yarn
+$ yarn dev
+```
+
+> `npm`
+
+```bash
+$ npm install
+$ npm run dev
+```
+
 ## Display
 
 |              Screenshot 1              |              Screenshot 2              |              Screenshot 3              |

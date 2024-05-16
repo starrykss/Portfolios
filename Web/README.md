@@ -23,3 +23,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   015   | _A Simple To-Do List_                            | Web Storage를 이용하여 제작한 간단한 TO DO LIST                       | HTML5 / CSS3 / JavaScript                        |
 |   016   | _React Essentials_                               | 리액트의 기본 기능들을 이용하여 만들어본 리액트 핵심 기능 소개 페이지 | HTML5 / CSS3 / JavaScript / React.js             |
 |   017   | _Tic-Tac-Toe_                                    | 리액트의 기본 기능들을 이용하여 만들어본 Tic-Tac-Toe 게임             | HTML5 / CSS3 / JavaScript / React.js             |
+|   018   | _Investment Calculator_                          | 리액트의 기본 기능들을 이용하여 만들어본 투자 계산기                  | HTML5 / CSS3 / JavaScript / React.js             |
