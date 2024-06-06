@@ -4,7 +4,6 @@
 
 - 리액트(React.js)를 공부하면서 학습한 리액트의 기능들을 이용하여 만들어본 카운트 다운 맞추기 앱
   - `forwardRef`, `useImperativeHandle`, `useRef`, `useState`, `createPortal` 등
--
 
 ## Development Information
 
@@ -35,6 +34,6 @@ $ npm run dev
 
 ## Display
 
-|              Screenshot 1              |              Screenshot 2              |              Screenshot 2              |
+|              Screenshot 1              |              Screenshot 2              |              Screenshot 3              |
 | :------------------------------------: | :------------------------------------: | :------------------------------------: |
 | ![Web Page Screenshot 1](picture1.png) | ![Web Page Screenshot 2](picture2.png) | ![Web Page Screenshot 3](picture3.png) |
