@@ -31,6 +31,6 @@ $ npm run dev
 
 ## Display
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
-| :------------------------------------: | :------------------------------------: || :------------------------------------: || :------------------------------------: |
+|              Screenshot 1              |              Screenshot 2              |              Screenshot 3              |              Screenshot 4              |
+| :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: |
 | ![Web Page Screenshot 1](picture1.png) | ![Web Page Screenshot 2](picture2.png) | ![Web Page Screenshot 3](picture3.png) | ![Web Page Screenshot 4](picture4.png) |
