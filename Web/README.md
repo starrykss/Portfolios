@@ -29,3 +29,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   021   | _A Simple Project Archive Page_                  | 리액트와 Tailwind CSS를 이용하여 제작한 프로젝트 기록 사이트                                               | HTML5 / CSS3 / JavaScript / React.js, Tailwind CSS  |
 |   022   | _A Simple Online Shop_                           | 리액트의 useContext, useReducer를 이용하여 간단하게 제작한 온라인 쇼핑 사이트                              | HTML5 / CSS3 / JavaScript / React.js                |
 |   023   | _Place Picker_                                   | 리액트의 useEffect, useCallback과 로컬 스토리지, `geolocation`을 이용하여 만들어본 여행 명소 고르기 사이트 | HTML5 / CSS3 / JavaScript / React.js                |
+|   024   | _React Quiz_                                   | 리액트의 기본적인 훅을 이용하여 만들어본 리액트 상식 퀴즈 앱 | HTML5 / CSS3 / JavaScript / React.js                |
