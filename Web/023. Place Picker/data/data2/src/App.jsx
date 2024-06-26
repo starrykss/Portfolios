@@ -1,4 +1,4 @@
-import { useRef, useState, useCallback, useEffect } from "react";
+import { useRef, useState, useCallback } from "react";
 
 import Places from "./components/Places.jsx";
 import Modal from "./components/Modal.jsx";
@@ -8,34 +8,24 @@ import AvailablePlaces from "./components/AvailablePlaces.jsx";
 import Error from "./components/Error.jsx";
 
 import { fetchUserPlaces, updateUserPlaces } from "./http.js";
+
+import { useFetch } from "./hooks/useFetch.js";
 import Copyright from "./components/Copyright.jsx";
 
 function App() {
   const selectedPlace = useRef();
 
-  const [userPlaces, setUserPlaces] = useState([]);
   const [errorUpdatingPlaces, setErrorUpdatingPlaces] = useState();
-
-  const [isFetching, setIsFetching] = useState(false);
-  const [error, setError] = useState();
 
   const [modalIsOpen, setModalIsOpen] = useState(false);
 
-  useEffect(() => {
-    async function fetchPlaces() {
-      setIsFetching(true);
-      try {
-        const places = await fetchUserPlaces();
-        setUserPlaces(places);
-      } catch (error) {
-        setError({ message: error.message || "Failed to fetch user places." });
-      }
-
-      setIsFetching(false);
-    }
-
-    fetchPlaces();
-  }, []);
+  // 커스텀 훅
+  const {
+    isFetching,
+    fetchedData: userPlaces,
+    error,
+    setFetchedData: setUserPlaces,
+  } = useFetch(fetchUserPlaces, []);
 
   function handleStartRemovePlace(place) {
     setModalIsOpen(true);
@@ -76,6 +66,7 @@ function App() {
           (place) => place.id !== selectedPlace.current.id
         )
       );
+
       try {
         await updateUserPlaces(
           userPlaces.filter((place) => place.id !== selectedPlace.current.id)
@@ -83,13 +74,13 @@ function App() {
       } catch (error) {
         setUserPlaces(userPlaces);
         setErrorUpdatingPlaces({
-          message: error.message || "Failed to delete a place.",
+          message: error.message || "Failed to delete place.",
         });
       }
 
       setModalIsOpen(false);
     },
-    [userPlaces]
+    [userPlaces, setUserPlaces] // set 상태 변화 함수 추가
   );
 
   function handleError() {
@@ -124,7 +115,7 @@ function App() {
         </p>
       </header>
       <main>
-        {error && <Error title="An error occurerd!" message={error.message} />}
+        {error && <Error title="An error occurred!" message={error.message} />}
         {!error && (
           <Places
             title="I'd like to visit ..."
