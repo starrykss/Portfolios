@@ -32,3 +32,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   024   | _React Quiz_                                     | 리액트의 기본적인 훅을 이용하여 만들어본 리액트 상식 퀴즈 앱                                                   | HTML5 / CSS3 / JavaScript / React.js                |
 |   025   | _React Forms_                                    | 리액트의 기본적인 훅을 이용하여 만들어본 로그인, 회원가입 폼                                                   | HTML5 / CSS3 / JavaScript / React.js                |
 |   026   | _React Food Order_                               | 리액트의 기본적인 기능들을 이용하여 만들어본 음식 주문 앱                                                      | HTML5 / CSS3 / JavaScript / React.js                |
+|   027   | _A Simple Event Browser_                         | 리액트 라우터(React Router)를 공부하면서 만들어본 이벤트 공지 사이트                                           | HTML5 / CSS3 / JavaScript / React.js / React Router |
