@@ -1,10 +1,10 @@
-import Header from "./components/Header.jsx";
-import Shop from "./components/Shop.jsx";
+import Header from './components/Header.jsx';
+import Shop from './components/Shop.jsx';
 
-import Product from "./components/Product.jsx";
-import { DUMMY_PRODUCTS } from "./dummy-products.js";
+import Product from './components/Product.jsx';
+import { DUMMY_PRODUCTS } from './dummy-products.js';
 
-import CartContextProvider from "./store/shopping-cart-context.jsx";
+import CartContextProvider from './store/shopping-cart-context.jsx';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
         ))}
       </Shop>
       <p className="copyright" align="middle">
-        Made By <a href="https://www.github.io/starrykss">@starrykss</a>
+        Made By <a href="https://www.github.com/starrykss">@starrykss</a>
       </p>
     </CartContextProvider>
   );

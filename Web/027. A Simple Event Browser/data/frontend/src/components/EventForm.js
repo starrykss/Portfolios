@@ -9,9 +9,10 @@ import {
 
 import classes from './EventForm.module.css';
 
+import { getAuthToken } from '../util/auth';
+
 function EventForm({ method, event }) {
   const data = useActionData();
-
   const navigate = useNavigate();
   const navigation = useNavigation();
 
@@ -88,7 +89,6 @@ export async function action({ request, params }) {
   const method = request.method;
   const data = await request.formData();
 
-  // <Form> 요소의 name의 값을 가져온다.
   const eventData = {
     title: data.get('title'),
     image: data.get('image'),
@@ -103,15 +103,17 @@ export async function action({ request, params }) {
     url = 'http://localhost:8080/events/' + eventId;
   }
 
+  const token = getAuthToken();
+
   const response = await fetch(url, {
     method: method,
     headers: {
       'Content-Type': 'application/json',
+      Authorization: 'Bearer ' + token,
     },
     body: JSON.stringify(eventData),
   });
 
-  // Validation Error
   if (response.status === 422) {
     return response;
   }
