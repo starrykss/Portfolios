@@ -31,6 +31,7 @@ $ node app.js
 - 프론트엔드 서버 켜기
 
 ```bash
+$ cd frontend
 $ yarn
 $ yarn dev
 ```
