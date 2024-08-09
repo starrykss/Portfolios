@@ -35,3 +35,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   027   | _A Simple Event Browser 1_                       | 리액트 라우터(React Router)를 공부하면서 만들어본 이벤트 공지 사이트                                           | HTML5 / CSS3 / JavaScript / React.js / React Router               |
 |   027   | _A Simple Event Browser 2_                       | 리액트 쿼리(React Query)를 공부하면서 만들어본 이벤트 공지 사이트                                              | HTML5 / CSS3 / JavaScript / React.js / React Router / React Query |
 |   028   | _A Simple Food Recipe Share Platform_            | Next.js를 공부하면서 만들어본 음식 레시피 공유 플랫폼                                                          | HTML5 / CSS3 / JavaScript / React.js / Next.js / SQLite3          |
+|   029   | _React Meetups_                                  | Next.js와 Page Router를 이용하여 만들어본 모임 관리 사이트                                                     | HTML5 / CSS3 / JavaScript / React.js / Next.js / MongoDB          |
