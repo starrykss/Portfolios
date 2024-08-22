@@ -37,3 +37,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   029   | _A Simple Food Recipe Share Platform_            | Next.js를 공부하면서 만들어본 음식 레시피 공유 플랫폼                                                          | HTML5 / CSS3 / JavaScript / React.js / Next.js / SQLite3          |
 |   030   | _React Meetups_                                  | Next.js와 Page Router를 이용하여 만들어본 모임 관리 사이트                                                     | HTML5 / CSS3 / JavaScript / React.js / Next.js / MongoDB          |
 |   031   | _React Challenges_                               | Framer Motion 라이브러리를 이용하여 애니메이션 효과를 적용하여 만들어본 목표 관리 사이트                       | HTML5 / CSS3 / JavaScript / React.js / Framer Motion              |
+|   032   | _React Poster_                                   | 리액트의 종합적인 기능과 리액트 라우터(React Router)를 이용하여 만들어본 포스트 등록 사이트                    | HTML5 / CSS3 / JavaScript / React.js / React Router               |
