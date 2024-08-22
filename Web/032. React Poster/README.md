@@ -1,4 +1,4 @@
-# A Simple Event Browser 1
+# React Poster
 
 ## Description
 
