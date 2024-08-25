@@ -13,8 +13,6 @@
 - 라우트를 이용하여 각각의 화면으로 이동 가능
   - 포스트 등록 화면(`/create-post`)
   - 포스트 세부 내용 화면(`/:postId`)
-- 기능
-  - 포스트 추가 및 확인 기능
 
 ## Development Information
 

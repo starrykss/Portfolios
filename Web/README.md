@@ -38,3 +38,4 @@ A Repository for archiving some **Web Development** Portfolios
 |   030   | _React Meetups_                                  | Next.js와 Page Router를 이용하여 만들어본 모임 관리 사이트                                                     | HTML5 / CSS3 / JavaScript / React.js / Next.js / MongoDB          |
 |   031   | _React Challenges_                               | Framer Motion 라이브러리를 이용하여 애니메이션 효과를 적용하여 만들어본 목표 관리 사이트                       | HTML5 / CSS3 / JavaScript / React.js / Framer Motion              |
 |   032   | _React Poster_                                   | 리액트의 종합적인 기능과 리액트 라우터(React Router)를 이용하여 만들어본 포스트 등록 사이트                    | HTML5 / CSS3 / JavaScript / React.js / React Router               |
+|   033   | _React Expenses_                                   | 리액트의 기본적인 기능을 이용하여 만들어본 지출 기록 정리 사이트                    | HTML5 / CSS3 / JavaScript / React.js            |
