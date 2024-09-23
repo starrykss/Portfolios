@@ -23,6 +23,11 @@
 > - 실행하기 위해서는 [Unsplash](https://unsplash.com/) 사이트 회원 가입(무료) 및 개인 API 키를 발급해야 한다.
 > - 프로젝트 최상위 경로에 `.env` 파일을 생성 후, 다음과 같이 내용을 작성한다.
 >   - `your_api_key`에 Unsplash에서 발급 받은 API 키를 넣는다.
+>
+> ```shell
+> # /.env
+> VITE_API_KEY=your_api_key
+> ```
 
 > **npm**
 
@@ -36,12 +41,6 @@ $ npm run dev
 ```bash
 $ yarn
 $ yarn dev
-```
-
-> /.env
-
-```shell
-VITE_API_KEY=your_api_key
 ```
 
 ## Display
