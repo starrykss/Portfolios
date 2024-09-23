@@ -8,8 +8,9 @@
   - **무한 스크롤(Infinite Scroll)** 기능 적용 (`React Router`)
   - 이미지 로딩 시, **스켈레톤(Skeleton)** 효과 적용
 - **Context API** 를 이용하여 라이트/다크 모드 토글 기능 구현
+  - **Context API** 를 이용하여 구현
   - **로컬 스토리지(Local Storage)** 를 이용하여 테마 모드 적용 상태 저장 기능 구현
-- 이미지에 마우스 호버 시, 확대 효과 및 이미지 설명 표시
+- 이미지에 마우스 커서 호버 시, 이미지 확대 효과 및 이미지 설명 표시
 
 ## Development Information
 

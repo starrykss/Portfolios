@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { useInfiniteQuery } from '@tanstack/react-query';
-import { useRef, useCallback, useState, useEffect } from 'react';
+import { useRef, useCallback, useState } from 'react';
 
 import { useGlobalContext } from '../contexts/context';
 
