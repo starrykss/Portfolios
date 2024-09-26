@@ -5,6 +5,7 @@
 - 리액트의 종합적인 기능과 Axios, React Query를 이용하여 구현한 이미지 검색 사이트
 - Axios 라이브러리를 이용하여 외부 공개 API([Unsplash API](https://unsplash.com/developers))와의 통신을 통해 이미지 검색 기능 구현
 - 검색창에 특정 문자를 검색하면, 해당 문자와 관련된 이미지가 표시된다.
+  - React Router를 이용하여 검색 기능 구현
   - **무한 스크롤(Infinite Scroll)** 기능 적용 (`React Router`)
   - 이미지 로딩 시, **스켈레톤(Skeleton)** 효과 적용
 - **Context API** 를 이용하여 라이트/다크 모드 토글 기능 구현
