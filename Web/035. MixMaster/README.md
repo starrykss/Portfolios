@@ -1,4 +1,4 @@
-# MixMaster>
+# MixMaster
 
 ## Description
 
