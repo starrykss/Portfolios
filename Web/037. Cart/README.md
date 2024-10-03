@@ -19,7 +19,7 @@
 
 - **Development Period** : 2024.09.16, 2024.09.28
 - **Language** : HTML5, CSS3, JavaScript
-- **Library** : React.js, Redux Toolkit
+- **Library** : React.js, Redux Toolkit, Axios
 
 ## How to Start
 
