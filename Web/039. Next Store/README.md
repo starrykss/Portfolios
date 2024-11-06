@@ -57,7 +57,7 @@
 
 > [!NOTE]
 >
-> - 실행하기 위해서는 [Supabase](https://supabase.com/), [Prisma](https://www.prisma.io/), [Clerk](https://www.clerk.com/), [Stripe](https://stripe.com/) 사이트 회원 가입(무료) 및 개인 API 키를 발급해야 한다.
+> - 실행하기 위해서는 [Supabase](https://supabase.com/), [Clerk](https://www.clerk.com/), [Stripe](https://stripe.com/) 사이트 회원 가입(무료) 및 개인 API 키를 발급해야 한다.
 > - 프로젝트 최상위 경로에 `.env`, `.env.local` 파일을 생성한 후, 아래의 키에 맞는 값들을 넣어준다.
 >
 > ```shell
