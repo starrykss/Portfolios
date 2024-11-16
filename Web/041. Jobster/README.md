@@ -17,7 +17,7 @@
   - 페이지에 등록된 입사 지원 정보 확인/수정/삭제할 수 있다.
   - 등록된 입사 지원 정보 검색할 수 있다.
   - 회원가입한 계정의 정보를 수정할 수 있다.
-- [Redux Toolkit](https://redux-toolkit.js.org/)을 이용하여 전역 상태 관리
+- [Redux Toolkit](https://redux-toolkit.js.org/)을 이용하여 전역 상태 관리 수행
 - [`normalize.css`](https://necolas.github.io/normalize.css/)를 사용하여 Chrome, Safari, Firefox 등 다양한 브라우저에서 HTML 요소의 스타일이 일관되게 보여지도록 설정
 - [moment.js](https://momentjs.com/) 라이브러리를 이용하여 날짜 및 시간 표시 기능 구현
 - [Recharts](https://recharts.org/) 라이브러리를 이용하여 차트 기능 구현
