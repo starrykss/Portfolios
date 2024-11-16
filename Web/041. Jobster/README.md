@@ -49,7 +49,7 @@
 
 - **Development Period** : 2024.11.07 - 2024.11.15
 - **Language** : HTML5, CSS3, JavaScript
-- **Library** : React.js, Recharts, Axios, React Toastify, React Icons
+- **Library** : React.js, React Router, Redux Toolkit, Styled-Components, Recharts, Axios, React Toastify, React Icons
 
 ## How to Start
 
