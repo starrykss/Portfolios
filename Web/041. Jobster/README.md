@@ -99,7 +99,7 @@ $ yarn dev
 </tr>
 <tr>
   <td>
-    <img src="./picture4.gif" alt="종합 화면" width=1000 />
+    <img src="./picture4.gif" alt="종합 화면" width=980 />
   </td>
 </tr>
 </table>
