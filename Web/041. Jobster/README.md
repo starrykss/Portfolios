@@ -95,12 +95,11 @@ $ yarn dev
   </td>
 </tr>
 <tr>
-  <th>Screenshot 4</th>
+  <th>Screenshot 4 : <i>입사 지원 기록 검색 및 차트 형태 변경</i></th>
 </tr>
 <tr>
   <td>
     <img src="./picture4.gif" alt="종합 화면" width=1000 />
-    <span><i>※ 입사 지원 기록 검색 및 차트 형태 변경</i></p>
   </td>
 </tr>
 </table>
