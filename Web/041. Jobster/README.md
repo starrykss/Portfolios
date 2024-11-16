@@ -100,7 +100,7 @@ $ yarn dev
 <tr>
   <td>
     <img src="./picture4.gif" alt="종합 화면" width=1000 />
-    <p><center><i>※ 입사 지원 기록 검색 및 차트 형태 변경</i></center></p>
+    <span><i>※ 입사 지원 기록 검색 및 차트 형태 변경</i></p>
   </td>
 </tr>
 </table>
