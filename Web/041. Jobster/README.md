@@ -95,7 +95,7 @@ $ yarn dev
   </td>
 </tr>
 <tr>
-  <th>Screenshot 4</th>
+  <th style="overflow: hidden;">Screenshot 4</th>
 </tr>
 <tr>
   <td>
