@@ -9,15 +9,6 @@
   - **Firebase** : 지출 내역 서버 저장 (지출 내역 동기화)
 - **[React Navigation](https://reactnavigation.org/) 라이브러리** 를 이용하여 Bottom Tabs Navigation, Stack Navigation 기능을 구현하였다.
 
-## Hot to Configure
-
-- 프로젝트의 원할한 구동을 위해서는 자신이 Firebase 엔드포인트와 연동을 해줘야 한다.
-- 프로젝트 최상단 경로(`/`)에 `.env` 파일을 생성한 후, 아래의 내용을 넣어준다.
-
-```bash
-BACKEND_URL=YOUR_FIREBASE_ENDPOINT     # 본인의 Firebase 엔드포인트를 넣어준다.
-```
-
 ## Development Information
 
 - **Development Period** : 2025.05.29 - 2025.06.07
@@ -25,6 +16,15 @@ BACKEND_URL=YOUR_FIREBASE_ENDPOINT     # 본인의 Firebase 엔드포인트를 �
 - **Library** : React.js, React Navigation
 - **Framework** : React Native
 - **Cloud Platform** : Firebase
+
+## Hot to Configure (Before Start)
+
+- 프로젝트의 원할한 구동을 위해서는 자신이 Firebase 엔드포인트와 연동을 해줘야 한다.
+- 프로젝트 최상단 경로(`/`)에 `.env` 파일을 생성한 후, 아래의 내용을 넣어준다.
+
+```bash
+BACKEND_URL=YOUR_FIREBASE_ENDPOINT     # 본인의 Firebase 엔드포인트를 넣어준다.
+```
 
 ## How to Start
 
